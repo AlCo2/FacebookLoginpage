@@ -1,0 +1,58 @@
+.facebook{
+    color: rgb(34, 110, 231);
+    font-weight: 900;
+    font-size: 3.7em;
+    position: relative;
+    top: 70px;
+    left: 150px;
+}
+.facep{
+    position: relative;
+    font-size: 1.5em;
+    top: 70px;
+    left: 150px;
+}
+#logcon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#login{
+    background-color: white;
+    height: 55vh;
+    width: 60vh;
+    border-radius: 5px;
+    outline: none;
+    padding: 10px;
+    border: 1px solid rgba(128, 128, 128, 0.413);
+}
+input,button{
+    border: rgba(128, 128, 128, 0.656) 1px solid;
+    width: 55vh;
+    height: 8vh;
+    margin: 0.9vh;
+    border-radius: 5px;
+}
+button{
+    background-color:rgb(34, 110, 231);
+    color: white;
+    font-weight: 900;
+    font-size: 1.1em;
+}
+#a{
+    font-weight:900;
+    text-decoration:none;
+    color: black;
+}
+#a:hover{
+    text-decoration:1px solid underline;
+}
+
+#github{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3em;
+    text-decoration: none;
+    font-weight: 900;
+}
